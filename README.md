@@ -1,2 +1,2 @@
 # Typing speed test
- A program in python that test your typing speed using the "Lorem Ipsum".
+A python program that tests your typing speed using "Lorem Ipsum" and informs you of your accuracy, the time used and the words per minute.
